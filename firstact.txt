@@ -1,1 +1,5 @@
 this is my first act on the file to apply git hub
+
+am I doing it right?
+
+this will gonna removed. so check this out
