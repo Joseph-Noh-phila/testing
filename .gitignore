@@ -1,0 +1,12 @@
+# Visual Studio 관련 파일들
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 데이터베이스/캐시/임시 파일
+*.db
+*.bin
+*.cache
+*.vscode/
